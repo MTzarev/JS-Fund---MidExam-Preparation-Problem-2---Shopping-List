@@ -33,10 +33,7 @@ function shoppingList(input) {
 
     console.log(groceries.join(`, `));
 }
-//shoppingList((["Tomatoes!Potatoes!Bread",
-// "Unnecessary Milk",
-// "Urgent Tomatoes",
-// "Go Shopping!"]));
+
 shoppingList((["Milk!Pepper!Salt!Water!Banana",
 "Urgent Salt",
 "Unnecessary Grapes",
